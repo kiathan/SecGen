@@ -9,6 +9,6 @@ gem 'wordlist'
 group :test, :development do
   gem 'minitest'
   gem 'rake'
-  gem 'rdoc'
+  gem 'rdoc', '>= 6.3.1'
   gem 'yard'
 end
