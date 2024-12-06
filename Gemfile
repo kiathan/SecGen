@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 #production gems go here
-gem 'nokogiri'
+gem 'nokogiri', '>= 1.15.7'
 gem 'puppet'
 gem 'librarian-puppet'
 gem 'wordlist'
